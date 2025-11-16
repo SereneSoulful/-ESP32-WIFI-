@@ -59,7 +59,7 @@
 3. 修改`src/main.cpp`中的热点配置（可选）：
    ```cpp
    const char* ap_ssid = "WiFi_Tool";      // 热点名称
-   const char* ap_password = "18661666957"; // 热点密码
+   const char* ap_password = "12345678"; // 热点密码
    ```
 
 ### 3. 数据文件上传
